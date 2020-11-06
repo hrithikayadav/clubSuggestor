@@ -1,1 +1,1 @@
-web: sh setup.sh && flask run app.py
+web: sh setup.sh && flask setup app.py
